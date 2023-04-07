@@ -1,0 +1,8 @@
+<Project>
+    <PropertyGroup>
+        <AssemblySearchPaths>
+            $(UltrakillManagedDirectory);
+            $(AssemblySearchPaths)
+        </AssemblySearchPaths>
+    </PropertyGroup>
+</Project>
